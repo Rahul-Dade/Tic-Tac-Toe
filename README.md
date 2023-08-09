@@ -23,6 +23,8 @@
 - Start Playing!!
 
 <h3> ScreenShots </h3> 
-![main py - Number-Guessing_Game - Visual Studio Code 09-08-2023 18_10_49](https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/240a76f0-5aa1-4437-9b26-7288ce19efde)
-![Ace-The-FrontEnd_Tic-Tac-Toe Game at main · surajm-333_Ace-The-FrontEnd - Google Chrome 09-08-2023 18_10_56](https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/e03364af-2c8a-45a1-a26c-80b8fd9b4e35)
+<img width="889" alt="tictactoe-light src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/ff56437b-6f4c-41e1-9cbe-58b72fed0ec7">
+<br>
+<img width="878" alt="tictactoe-dark" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/f6dc5308-1e4a-4240-a2bf-d9820d77f78a">
+<br>
 
