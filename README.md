@@ -25,6 +25,8 @@
 <h3> ScreenShots </h3> 
 <img width="889" alt="tictactoe-light" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/ff56437b-6f4c-41e1-9cbe-58b72fed0ec7">
 <br>
+
+
 <img width="878" alt="tictactoe-dark" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/f6dc5308-1e4a-4240-a2bf-d9820d77f78a">
 <br>
 
