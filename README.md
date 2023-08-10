@@ -29,10 +29,6 @@ you can check the output with this [link](https://rahul-dade.github.io/Tic-Tac-T
 
 <h3> ScreenShots </h3> 
 
-<img width="889" alt="tictactoe-light" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/ff56437b-6f4c-41e1-9cbe-58b72fed0ec7">
-<br>
+<img width="383" alt="Screenshot 2023-08-10 102313" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/0fe7e1da-67e0-48da-aedf-a9329f773a8c">
 
-
-<img width="878" alt="tictactoe-dark" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/f6dc5308-1e4a-4240-a2bf-d9820d77f78a">
-<br>
 
