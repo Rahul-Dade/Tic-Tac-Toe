@@ -22,7 +22,13 @@
 - Run the index.html file
 - Start Playing!!
 
+# output:
+
+you can check the output with this [link](https://rahul-dade.github.io/Tic-Tac-Toe/)
+
+
 <h3> ScreenShots </h3> 
+
 <img width="889" alt="tictactoe-light" src="https://github.com/Rahul-Dade/Tic-Tac-Toe/assets/91328026/ff56437b-6f4c-41e1-9cbe-58b72fed0ec7">
 <br>
 
